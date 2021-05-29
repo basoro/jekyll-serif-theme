@@ -3,6 +3,12 @@
     {% if site.data.contact.phone %}
         <div class="call-phone"><strong>Phone: </strong> {{ site.data.contact.phone }} </div>
     {% endif %}
+    {% if site.data.contact.whatsapp %}
+        <div class="call-whatsapp"><strong>WhatsApp: </strong> {{ site.data.contact.whatsapp }} </div>
+    {% endif %}
+    {% if site.data.contact.telegram %}
+        <div class="call-telegram"><strong>Telegram: </strong> {{ site.data.contact.telegram }} </div>
+    {% endif %}
     {% if site.data.contact.email %}
     <div class="call-email"><strong>Email: </strong>
       <a href="mailto:{{ .site.data.contact.email }}">
