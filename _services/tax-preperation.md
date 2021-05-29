@@ -1,15 +1,12 @@
 ---
-title: "Tax Preperation"
+title: "Monitoring"
 date: 2018-11-18T12:33:46+10:00
 featured: true
 weight: 6
 layout: service
 ---
 
-Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
+Don’t wait for the phone to ring to be alerted of a problem in the environment. We can set up a **reliable monitoring platform** to send you alerts at the moment an incident happens, allowing you to act quickly on it.
 
 - Nata perque
 - Et ferrugine laedam

@@ -1,14 +1,12 @@
 ---
-title: "Mergers"
+title: "In House Training"
 date: 2018-11-28T15:15:34+10:00
 featured: true
 weight: 4
 layout: service
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Understanding and managing a sistem environment are paramount to ensure smooth operations and improve troubleshooting skills. We offer **in house training** on latest technologies to get your ready for production.
 
 ## Ne verba patulosque numen vix libet
 

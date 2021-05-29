@@ -1,16 +1,12 @@
 ---
-title: "Business Sales"
+title: "Backup & DR"
 date: 2018-11-28T15:15:26+10:00
 featured: true
 weight: 3
 layout: service
 ---
 
-Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
-vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
-nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
-cadet! [Ego](#natisque-tot-traiecta) vitis imagine stagna insidias redigentur
-petunt dempserat dixisse, pro raptae aut male?
+60% of companies that lose their data will shut down within 6 months of the disaster. A solid **backup and disaster recovery** solution will help you sleep at night by ensuring your data is safely and regularly stored in different locations.
 
 - Dente reponere dixere referre excessitque seque
 - Tacui si cui inde haec ubi trepidas
