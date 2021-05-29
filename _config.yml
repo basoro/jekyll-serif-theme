@@ -30,6 +30,8 @@ collections:
     output: true
   team:
     output: true
+  blogs:
+    output: true
 
 sass:
   indentWidth: 4
