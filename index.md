@@ -1,7 +1,7 @@
 ---
 title: Jekyll Serif Theme
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: Aplikasi berbasis web, aplikasi mobile, situs web, konfigurasi server dan pengembangan layanan digital khusus Rumah Sakit.
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: false
 
 # Digitize Yours!
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated. Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Aplikasi berbasis web, aplikasi mobile, situs web, konfigurasi server dan pengembangan layanan digital khusus Rumah Sakit.
