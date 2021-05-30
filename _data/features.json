@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Privacy First",
+    "description": "We don't collect anything except more sleep at night.",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Open Source",
+    "description": "Every time we write code, we get to share it with the world.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Full Maintained",
+    "description": "We're working to build towards something sustainable.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
