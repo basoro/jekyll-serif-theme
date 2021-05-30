@@ -3,7 +3,7 @@ title: "Demo"
 date: 2018-11-18T12:33:46+10:00
 featured: true
 order: 1
-layout: service
+layout: blog
 ---
 
 ## Packages needed to use this code (use with Python 3.x)
