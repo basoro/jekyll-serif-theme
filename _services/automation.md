@@ -1,12 +1,12 @@
 ---
-title: "Automation"
+title: "Otomatisasi"
 date: 2018-11-28T15:14:39+10:00
 featured: true
 weight: 2
 layout: service
 ---
 
-You may not realize it but you spend a lot of time performing **repetitive tasks manually**. Let us help you save time but automating some of these tasks using Bash scripting and other automation tools.
+Anda mungkin tidak menyadarinya, tetapi Anda menghabiskan banyak waktu untuk melakukan **tugas berulang secara manual**. Ijinkan kami membantu Anda menghemat waktu untuk **mengotomatiskan** beberapa tugas ini menggunakan skrip ***bash*** dan **alat otomatisasi** lainnya.
 
 ## Inter pectore totidem
 

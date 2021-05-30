@@ -6,7 +6,7 @@ weight: 4
 layout: service
 ---
 
-Understanding and managing a sistem environment are paramount to ensure smooth operations and improve troubleshooting skills. We offer **in house training** on latest technologies to get your ready for production.
+Memahami dan mengelola sistem sangat penting untuk memastikan kelancaran dan **meningkatkan keterampilan** operasional. Kami menawarkan **pelatihan internal** (*in house training*) tentang teknologi terbaru agar Anda siap untuk lebih **efisien** dan **efektif**.
 
 ## Ne verba patulosque numen vix libet
 

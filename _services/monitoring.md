@@ -6,7 +6,7 @@ weight: 6
 layout: service
 ---
 
-Don’t wait for the phone to ring to be alerted of a problem in the environment. We can set up a **reliable monitoring platform** to send you alerts at the moment an incident happens, allowing you to act quickly on it.
+Jangan menunggu telepon berdering untuk mengetahui adanya masalah di sistem Anda. Kami dapat menyiapkan **platform pemantauan** yang handal untuk mengirimi Anda peringatan saat terjadi **insiden**, memungkinkan Anda untuk bertindak cepat.
 
 - Nata perque
 - Et ferrugine laedam

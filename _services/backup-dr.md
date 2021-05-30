@@ -6,7 +6,7 @@ weight: 3
 layout: service
 ---
 
-60% of companies that lose their data will shut down within 6 months of the disaster. A solid **backup and disaster recovery** solution will help you sleep at night by ensuring your data is safely and regularly stored in different locations.
+Enam puluh persen perusahaan yang **kehilangan datanya** akan ditutup dalam waktu 6 bulan setelah bencana. Solusi **pencadangan** (*backup*) dan **pemulihan bencana** (*disaster recovery*) yang solid akan membantu Anda tidur di malam hari dengan memastikan data Anda disimpan dengan aman dan teratur di lokasi yang berbeda.
 
 - Dente reponere dixere referre excessitque seque
 - Tacui si cui inde haec ubi trepidas

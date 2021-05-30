@@ -1,12 +1,12 @@
 ---
-title: "Audit & Consulting"
+title: "Audit & Konsultasi"
 date: 2018-11-28T15:14:54+10:00
 featured: true
 weight: 5
 layout: service
 ---
 
-Whether you are looking to improve your current environment or comply with a yearly auditting policy, we are here to help you assess the **performance and stability** of your infrastructure and make propositions based on it.
+Apakah Anda ingin **meningkatkan performa** atau melakukan kebijakan **audit berkala** pada sistem Anda saat ini? Kami disini bisa membantu Anda **menilai kinerja** dan **stabilitas infrastruktur** sistem Anda dan membuat masukan berdasarkan analisa-analisa logis.
 
 ## Ne verba patulosque numen vix libet
 
