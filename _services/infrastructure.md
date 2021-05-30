@@ -1,12 +1,12 @@
 ---
-title: "Infrastructure"
+title: "Infrastruktur"
 date: 2018-11-18T12:33:46+10:00
 featured: true
 weight: 1
 layout: service
 ---
 
-Analysis of your current environment, propositions for improvement, installation and setting up of **new solutions, data and workload migrations**.
+Analisa infrastruktur Anda saat ini, rencana untuk **peningkatan, pemasangan dan pengaturan** solusi baru, migrasi data dan beban kerja sistem.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
