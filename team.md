@@ -3,10 +3,10 @@ title: Team
 layout: teams
 permalink: /team/
 intro_image: "images/illustrations/reading.svg"
-intro_image_absolute: true
+intro_image_absolute: false
 intro_image_hide_on_mobile: false
 ---
 
-# Meet The Team
+# Temui Tim Kami
 
-Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
+Tim kami adalah pribadi-pribadi berkualitas dapat membantu Rumah Sakit Anda di setiap tahap pertumbuhannya.

@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Hubungi
 layout: contact
 bodyClass: page-contact
 ---
