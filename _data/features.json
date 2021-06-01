@@ -1,17 +1,17 @@
 [
   {
-    "title": "Privacy First",
-    "description": "We don't collect anything except more sleep at night.",
+    "title": "Utamakan Privasi",
+    "description": "Kami tidak mengumpulkan data apa pun kecuali atas persetujuan anda.",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Open Source",
-    "description": "Every time we write code, we get to share it with the world.",
+    "title": "Sumber Terbuka",
+    "description": "Setiap kali kita menulis kode, kita bisa membaginya dengan dunia.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Full Maintained",
-    "description": "We're working to build towards something sustainable.",
+    "title": "Dukungan Penuh",
+    "description": "Kami sedang bekerja untuk anda, membangun sesuatu yang berkelanjutan.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
