@@ -2,22 +2,22 @@ main:
   - name: "Home"
     url: "/"
     weight: 1
-  - name: "About"
+  - name: "Kami"
     url: "/about/"
     weight: 2
-  - name: "Services"
+  - name: "Layanan"
     url: "/services/"
     weight: 3
-  - name: "Projects"
+  - name: "Proyek"
     url: "/projects/"
     weight: 4
-  - name: "Team"
+  - name: "Tim"
     url: "/team/"
     weight: 5
   - name: "Blog"
     url: "/blogs/"
     weight: 6
-  - name: "Contact"
+  - name: "Hubungi"
     url: "/contact/"
     weight: 7
 
@@ -28,6 +28,6 @@ footer:
   - name: "Blog"
     url: "/blogs/"
     weight: 2
-  - name: "Contact"
+  - name: "Hubungi"
     url: "/contact/"
     weight: 3
