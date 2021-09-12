@@ -1,2 +1,43 @@
 .page-home {
 }
+.fa-marquee {
+    overflow: hidden
+}
+
+.fa-marquee__inner {
+    width: fit-content;
+    animation: marquee 100s linear infinite
+}
+
+.fa-marquee__row {
+    display: flex;
+    width: fit-content
+}
+
+.fa-marquee__row--2 {
+    transform: translateX(-130px)
+}
+
+.fa-marquee__item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 255px;
+    height: 170px;
+    background-color: #fff;
+    margin-right: 20px
+}
+
+.fa-marquee__image {
+    width: 160px
+}
+
+@keyframes marquee {
+    0% {
+        transform: translate3d(0, 0, 0)
+    }
+    100% {
+        transform: translate3d(-50%, 0, 0)
+    }
+}
