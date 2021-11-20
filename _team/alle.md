@@ -1,10 +1,10 @@
 ---
-title: 'Robert Johnson'
-date: 2018-12-20T13:44:23+10:00
+title: 'Adly Hidayat'
+date: 2018-12-20T13:44:30+10:00
 draft: false
-image: 'images/team/vince-fleming-613817-unsplash.jpg'
-jobtitle: 'Developer'
-linkedinurl: "https://www.linkedin.com/"
+image: 'images/team/alee.jpg'
+jobtitle: 'Programer'
+linkedinurl: ""
 promoted: false
 weight: 3
 layout: team
