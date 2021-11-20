@@ -46,24 +46,6 @@ bodyClass: page-home
   </div>
 </div>
 
-<div class="container pt-6 pb-6">
-  <div class="row">
-    {% assign weighted_projects = site.projects | sort: "weight" %}
-    {% for project in weighted_projects %}
-    <div class="col-12 col-md-6 mb-3">
-      <div class="project project-summary">
-        <div class="project-content">
-          <h2 class="project-title">
-            <a href="{{ project.url | relative_url }}">{{ project.title }}</a>
-          </h2>
-          <p>{{ project.content | markdownify | strip_html | truncate: 100 }}</p>
-        </div>
-      </div>
-    </div>
-    {% endfor %}
-  </div>
-</div>
-
 <div class="fa-marquee">
     <div class="fa-marquee__inner" style="animation-duration: 88s">
         <div class="fa-marquee__row fa-marquee__row--1 fa-mb-20">
