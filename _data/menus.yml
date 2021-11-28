@@ -14,12 +14,15 @@ main:
   - name: "Tim"
     url: "/team/"
     weight: 5
+  - name: "Foto"
+    url: "/gallery/"
+    weight: 6
   - name: "Blog"
     url: "/blogs/"
-    weight: 6
+    weight: 7
   - name: "Hubungi"
     url: "/contact/"
-    weight: 7
+    weight: 8
 
 footer:
   - name: "Home"
